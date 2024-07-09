@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&background=000000&center=true&vCenter=true&random=false&width=435&lines=VAISHAK+P;Flutter+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&background=#00000000&center=true&vCenter=true&random=false&width=435&lines=VAISHAK+P;Flutter+Full+Stack+Developer)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Vaishak</h1>
 <h3 align="center">flutter Full Stack developer</h3>
 
